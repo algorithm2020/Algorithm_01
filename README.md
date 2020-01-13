@@ -1,2 +1,2 @@
-# Algorithm_01
-회원01님의 코드 제출장소
+# Algorithm_LJB
+이재빈님의 코드 제출장소
