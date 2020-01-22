@@ -29,11 +29,11 @@ since (2020.01.13~)
     
 2020.01.22
 ---
-- 이진탐색(Binary Search)
+이진탐색(Binary Search)
 
 * [백준: 2805. 나무 자르기 ] https://www.acmicpc.net/problem/2805
 
-    [나무 자르기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EB%82%98%EB%AC%B4%EC%9E%90%EB%A5%B4%EA%B8%B0.cpp)
+    <!--[나무 자르기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EB%82%98%EB%AC%B4%EC%9E%90%EB%A5%B4%EA%B8%B0.cpp)-->
 * [백준: 1920. 수찾기] https://www.acmicpc.net/problem/1920
 
     [수찾기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EC%88%98%EC%B0%BE%EA%B8%B0.cpp)
@@ -42,12 +42,12 @@ since (2020.01.13~)
     [Peak Index in a Mountain Array 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/Peak%20Index%20in%20a%20Mountain%20Array.cpp)
 * [백준 1300 k번째 수] https://www.acmicpc.net/problem/1300
 
-    [k번째 수 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/k%EB%B2%88%EC%A7%B8%20%EC%88%98.cpp)
+    <!--[k번째 수 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/k%EB%B2%88%EC%A7%B8%20%EC%88%98.cpp)-->
 * [백준_10815 숫자카드] https://www.acmicpc.net/problem/10815
 
     [숫자카드 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.cpp)
 
-- 완전탐색(Brute Force)
+완전탐색(Brute Force)
 
 * [백준: 9095. 1,2,3 더하기] https://www.acmicpc.net/problem/9095
 
