@@ -29,3 +29,39 @@ since (2020.01.13~)
     
 2020.01.22
 ---
+- 이진탐색(Binary Search)
+
+* [백준: 2805. 나무 자르기 ] https://www.acmicpc.net/problem/2805
+
+    [나무 자르기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+* [백준: 1920. 수찾기] https://www.acmicpc.net/problem/1920
+
+    [수찾기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+* [Leet code: 852. Peak Index in a Mountain Array] https://leetcode.com/problems/peak-index-in-a-mountain-array/
+
+    [Peak Index in a Mountain Array 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/Peak%Index%in%a%Mountain%Array.cpp
+)
+* [백준 1300 k번째 수] https://www.acmicpc.net/problem/1300
+
+    [k번째 수 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+* [백준_10815 숫자카드] https://www.acmicpc.net/problem/10815
+
+    [숫자카드 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+
+- 완전탐색(Brute Force)
+
+* [백준: 9095. 1,2,3 더하기] https://www.acmicpc.net/problem/9095
+
+    [1,2,3 더하기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/1,2,3%\353\215\224\355\225\230\352\270\260.cpp")
+* [백준: 14889. 스타트와 링크] https://www.acmicpc.net/problem/14889
+
+    [스타트와 링크 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+* [백준: 6603. 로또] https://www.acmicpc.net/problem/6603
+
+    [로또 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+* [프로그래머스: 카펫] https://programmers.co.kr/learn/courses/30/lessons/42842
+
+    [카펫 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+* [백준:_15686. 치킨배달 ] https://www.acmicpc.net/problem/15686
+
+    [치킨배달 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
