@@ -33,20 +33,19 @@ since (2020.01.13~)
 
 * [백준: 2805. 나무 자르기 ] https://www.acmicpc.net/problem/2805
 
-    [나무 자르기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+    [나무 자르기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EB%82%98%EB%AC%B4%EC%9E%90%EB%A5%B4%EA%B8%B0.cpp)
 * [백준: 1920. 수찾기] https://www.acmicpc.net/problem/1920
 
-    [수찾기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+    [수찾기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EC%88%98%EC%B0%BE%EA%B8%B0.cpp)
 * [Leet code: 852. Peak Index in a Mountain Array] https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
-    [Peak Index in a Mountain Array 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/Peak%Index%in%a%Mountain%Array.cpp
-)
+    [Peak Index in a Mountain Array 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/Peak%20Index%20in%20a%20Mountain%20Array.cpp)
 * [백준 1300 k번째 수] https://www.acmicpc.net/problem/1300
 
-    [k번째 수 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+    [k번째 수 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/k%EB%B2%88%EC%A7%B8%20%EC%88%98.cpp)
 * [백준_10815 숫자카드] https://www.acmicpc.net/problem/10815
 
-    [숫자카드 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+    [숫자카드 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.cpp)
 
 - 완전탐색(Brute Force)
 
@@ -55,13 +54,13 @@ since (2020.01.13~)
     [1,2,3 더하기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/1,2,3%\353\215\224\355\225\230\352\270\260.cpp")
 * [백준: 14889. 스타트와 링크] https://www.acmicpc.net/problem/14889
 
-    [스타트와 링크 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+    [스타트와 링크 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.cpp)
 * [백준: 6603. 로또] https://www.acmicpc.net/problem/6603
 
-    [로또 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+    [로또 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EB%A1%9C%EB%98%90.cpp)
 * [프로그래머스: 카펫] https://programmers.co.kr/learn/courses/30/lessons/42842
 
-    [카펫 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+    [카펫 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EC%B9%B4%ED%8E%AB.cpp)
 * [백준:_15686. 치킨배달 ] https://www.acmicpc.net/problem/15686
 
-    [치킨배달 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/)
+    [치킨배달 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.cpp)

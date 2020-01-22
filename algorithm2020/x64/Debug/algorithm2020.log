@@ -1,2 +1,4 @@
-﻿  치킨배달.cpp
+﻿  나무자르기.cpp
+f:\algorithm_ljb\algorithm2020\20200122\나무자르기.cpp(53): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\algorithm_ljb\algorithm2020\20200122\나무자르기.cpp(55): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   algorithm2020.vcxproj -> F:\Algorithm_LJB\algorithm2020\x64\Debug\algorithm2020.exe
