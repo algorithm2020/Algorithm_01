@@ -48,6 +48,7 @@ since (2020.01.13~)
     [숫자카드 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.cpp)
 
 * [백준: 2110. 공유기 설치] https://www.acmicpc.net/problem/2110
+
     [공유기 설치 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EA%B3%B5%EC%9C%A0%EA%B8%B0%EC%84%A4%EC%B9%98.cpp)
 
 완전탐색(Brute Force)
@@ -88,3 +89,32 @@ since (2020.01.13~)
 * [리트코드: 이진트리] https://leetcode.com/problems/k-closest-points-to-origin/
 
     [리트코드-이진트리 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200129/%EB%A6%AC%ED%8A%B8%EC%BD%94%EB%93%9C-%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC.cpp)
+
+* [리트코드: Lowest Common Ancestor of a Binary Search Tree] https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/
+
+    [리트코드: Lowest Common Ancestor of a Binary Search Tree 풀이]()
+
+
+2020.02.01
+
+동적 계획법 (Dynamic Programming)
+
+* [백준: 11726. 2xN 타일링] https://www.acmicpc.net/problem/11726
+    
+    [백준: 11726. 2xN 타일링 풀이]()
+* [백준: 11057. 오르막 수] https://www.acmicpc.net/problem/11057
+
+    [백준: 11057. 오르막 수 풀이]()
+* [백준: 11053. 가장 긴 증가하는 부분 수열] https://www.acmicpc.net/problem/11053
+
+    [백준: 11053. 가장 긴 증가하는 부분 수열 풀이]()
+* [백준: 1890. 점프] https://www.acmicpc.net/problem/1890
+
+    [백준: 1890. 점프 풀이]()
+    <!--
+* [프로그래머스: N으로 표현] https://programmers.co.kr/learn/courses/30/lessons/42895
+
+    [프로그래머스: N으로 표현 풀이]()
+* [프로그래머스: 카드 게임] https://programmers.co.kr/learn/courses/30/lessons/42896
+
+    [프로그래머스: 카드 게임 풀이]()>
