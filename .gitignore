@@ -2,6 +2,6 @@
 *.vcxproj
 *.vcxproj.*
 *.sln
-algorithm2020/Debug/
-algorithm2020/x64/
+algorithm2020/Debug/*
+algorithm2020/x64/*
 algorithm2020/cpp.hint
