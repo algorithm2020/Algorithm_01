@@ -96,7 +96,7 @@ since (2020.01.13~)
 
 
 2020.02.01
-
+---
 동적 계획법 (Dynamic Programming)
 
 * [백준: 11726. 2xN 타일링] https://www.acmicpc.net/problem/11726
@@ -120,7 +120,7 @@ since (2020.01.13~)
 
 
 2020.02.05
-
+---
 그리디 알고리즘(Greedy)
 
 
