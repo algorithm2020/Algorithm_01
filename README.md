@@ -101,20 +101,62 @@ since (2020.01.13~)
 
 * [백준: 11726. 2xN 타일링] https://www.acmicpc.net/problem/11726
     
-    [백준: 11726. 2xN 타일링 풀이]()
+    [백준: 11726. 2xN 타일링 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200201/2xN%20%ED%83%80%EC%9D%BC%EB%A7%81.cpp)
 * [백준: 11057. 오르막 수] https://www.acmicpc.net/problem/11057
 
-    [백준: 11057. 오르막 수 풀이]()
+    [백준: 11057. 오르막 수 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200201/%EC%98%A4%EB%A5%B4%EB%A7%89%20%EC%88%98.cpp)
 * [백준: 11053. 가장 긴 증가하는 부분 수열] https://www.acmicpc.net/problem/11053
 
-    [백준: 11053. 가장 긴 증가하는 부분 수열 풀이]()
+    [백준: 11053. 가장 긴 증가하는 부분 수열 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200201/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.cpp)
 * [백준: 1890. 점프] https://www.acmicpc.net/problem/1890
 
-    [백준: 1890. 점프 풀이]()
-    <!--
+    [백준: 1890. 점프 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200201/%EC%A0%90%ED%94%84.cpp)
 * [프로그래머스: N으로 표현] https://programmers.co.kr/learn/courses/30/lessons/42895
 
-    [프로그래머스: N으로 표현 풀이]()
+    <!--[프로그래머스: N으로 표현 풀이]()-->
 * [프로그래머스: 카드 게임] https://programmers.co.kr/learn/courses/30/lessons/42896
 
-    [프로그래머스: 카드 게임 풀이]()>
+    <!--[프로그래머스: 카드 게임 풀이]()>-->
+
+
+2020.02.05
+
+그리디 알고리즘(Greedy)
+
+
+* [백준: 11047. 동전 0] https://www.acmicpc.net/problem/11047
+
+    [백준: 11047. 동전 0 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200205/%EB%8F%99%EC%A0%840.cpp)
+* [백준: 11399. ATM]https://www.acmicpc.net/problem/11399
+
+    [백준: 11399. ATM 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200205/ATM.cpp)
+* [백준: 1931. 회의실 배정]https://www.acmicpc.net/problem/1931
+
+    [백준: 1931. 회의실 배정 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200205/%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95.cpp)
+* [프로그래머스: 42862. 체육복] https://programmers.co.kr/learn/courses/30/lessons/42862
+
+    [프로그래머스: 42862. 체육복 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200205/%EC%B2%B4%EC%9C%A1%EB%B3%B5.cpp)
+* [리트코드: Split a String in Balanced Strings] https://leetcode.com/problems/split-a-string-in-balanced-strings/
+
+    [리트코드: Split a String in Balanced Strings 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200205/Split%20a%20String%20in%20Balanced%20Strings.cpp)
+* [리트코드: Delete Columns to Make Sorted] https://leetcode.com/problems/delete-columns-to-make-sorted/
+
+    [리트코드: Delete Columns to Make Sorted 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200205/Delete%20Columns%20to%20Make%20Sorted.cpp)
+* [리트코드: Play with Chips] https://leetcode.com/problems/play-with-chips/
+
+    <!--[리트코드: Play with Chips 풀이]()-->
+* [리트코드: Last Stone Weight] https://leetcode.com/problems/last-stone-weight/
+
+    [리트코드: Last Stone Weight 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200205/Last%20Stone%20Weight.cpp)
+* [리트코드: Two City Scheduling] https://leetcode.com/problems/two-city-scheduling/
+
+    <!--[리트코드: Two City Scheduling 풀이]()-->
+* [리트코드: Best Time to Buy and Sell Stock II] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+
+    <!--[리트코드: Best Time to Buy and Sell Stock II 풀이]()-->
+* [리트코드: Maximize Sum Of Array After K Negations] https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
+
+    <!--[리트코드: Maximize Sum Of Array After K Negations 풀이]()-->
+* [리트코드: Assign Cookies] https://leetcode.com/problems/assign-cookies/
+
+    <!--[리트코드: Assign Cookies 풀이]()-->
