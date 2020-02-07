@@ -148,9 +148,6 @@ since (2020.01.13~)
 * [리트코드: Last Stone Weight] https://leetcode.com/problems/last-stone-weight/
 
     [리트코드: Last Stone Weight 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200205/Last%20Stone%20Weight.cpp)
-* [리트코드: Two City Scheduling] https://leetcode.com/problems/two-city-scheduling/
-
-    <!--[리트코드: Two City Scheduling 풀이]()-->
 * [리트코드: Best Time to Buy and Sell Stock II] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 
     <!--[리트코드: Best Time to Buy and Sell Stock II 풀이]()-->
@@ -160,3 +157,31 @@ since (2020.01.13~)
 * [리트코드: Assign Cookies] https://leetcode.com/problems/assign-cookies/
 
     <!--[리트코드: Assign Cookies 풀이]()-->
+
+
+2020.02.07
+---
+
+스택
+
+* [백준: 11866. 스택 수열] https://www.acmicpc.net/problem/11866
+
+    [백준: 11866. 스택 수열 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200208/%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.cpp)
+* [백준: 1725. 히스토그램] https://www.acmicpc.net/problem/1725
+
+    [백준: 1725. 히스토그램 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200208/%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8.cpp)
+
+큐
+
+* [백준: 1874. 요세푸스 문제 0] https://www.acmicpc.net/problem/1874
+
+    [백준: 1874. 요세푸스 문제 0 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200208/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EB%AC%B8%EC%A0%9C0.cpp)
+* [프로그래머스: 42584. 주식 가격] https://programmers.co.kr/learn/courses/30/lessons/42584
+
+    [프로그래머스: 42584. 주식 가격 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200208/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.cpp)
+
+그리디
+
+* [리트코드: Two City Scheduling] https://leetcode.com/problems/two-city-scheduling/
+
+    [리트코드: Two City Scheduling 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200208/Two%20City%20Scheduling.cpp)
