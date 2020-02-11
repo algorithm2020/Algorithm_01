@@ -185,3 +185,32 @@ since (2020.01.13~)
 * [리트코드: Two City Scheduling] https://leetcode.com/problems/two-city-scheduling/
 
     [리트코드: Two City Scheduling 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200208/Two%20City%20Scheduling.cpp)
+
+
+2020.02.11
+---
+백트래킹
+
+[백준]
+
+* [백준 : 1758. 암호만들기] : https://www.acmicpc.net/problem/1759
+
+    [암호만들기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+* [백준 : 1967. 트리의지름] : https://www.acmicpc.net/problem/1967
+
+    <!--[트리의지름 풀이]()-->
+* 알파벳: https://www.acmicpc.net/problem/1987
+    
+    [알파벳 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%EC%95%8C%ED%8C%8C%EB%B2%B3.cpp)
+* 트리 : https://www.acmicpc.net/problem/1068
+
+    [트리 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/\355\212\270\353\246\254.cpp")
+* 로또(백트레킹 방법) https://www.acmicpc.net/problem/6603
+
+    [로또 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%EB%A1%9C%EB%98%90.cpp)
+* 부분수열의 합 : https://www.acmicpc.net/problem/1182
+
+    [부분수열의 합 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.cpp)
+* 스도쿠 : https://www.acmicpc.net/problem/2580
+
+    <!--[스도쿠 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%EC%8A%A4%EB%8F%84%EC%BF%A0.cpp)-->
