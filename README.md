@@ -159,7 +159,7 @@ since (2020.01.13~)
     <!--[리트코드: Assign Cookies 풀이]()-->
 
 
-2020.02.07
+2020.02.08
 ---
 
 스택
@@ -191,26 +191,41 @@ since (2020.01.13~)
 ---
 백트래킹
 
-[백준]
-
 * [백준 : 1758. 암호만들기] : https://www.acmicpc.net/problem/1759
 
     [암호만들기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 * [백준 : 1967. 트리의지름] : https://www.acmicpc.net/problem/1967
 
-    <!--[트리의지름 풀이]()-->
-* 알파벳: https://www.acmicpc.net/problem/1987
+    [트리의지름 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/1967.\355\212\270\353\246\254\354\235\230\354\247\200\353\246\204.cpp)
+* [백준 : 1987. 알파벳]: https://www.acmicpc.net/problem/1987
     
-    [알파벳 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%EC%95%8C%ED%8C%8C%EB%B2%B3.cpp)
-* 트리 : https://www.acmicpc.net/problem/1068
+    [백준 : 1987. 알파벳 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%EC%95%8C%ED%8C%8C%EB%B2%B3.cpp)
+* [백준 : 1068. 트리] : https://www.acmicpc.net/problem/1068
 
-    [트리 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/\355\212\270\353\246\254.cpp")
-* 로또(백트레킹 방법) https://www.acmicpc.net/problem/6603
-
-    [로또 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%EB%A1%9C%EB%98%90.cpp)
+    [백준 : 1068. 트리 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%ED%8A%B8%EB%A6%AC.cpp)
 * 부분수열의 합 : https://www.acmicpc.net/problem/1182
 
     [부분수열의 합 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.cpp)
 * 스도쿠 : https://www.acmicpc.net/problem/2580
 
     <!--[스도쿠 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%EC%8A%A4%EB%8F%84%EC%BF%A0.cpp)-->
+
+2020.02.15
+---
+BFS
+
+* [백준 : 11559. puyo puyo] https://www.acmicpc.net/problem/11559
+
+    [백준 : 11559. puyo puyo 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/11559.PuyoPuyo.cpp)
+* [백준 : 2589. 보물섬] https://www.acmicpc.net/problem/2589
+
+    [백준 : 2589. 보물섬 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/2589.\353\263\264\353\254\274\354\204\254.cpp)
+    
+DFS
+
+* [백준 : 2573. 빙산] https://www.acmicpc.net/problem/2573
+
+    [백준 : 2573. 빙산 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/2573.\353\271\231\354\202\260.cpp)
+* [백준 : 13023. ABCED] https://www.acmicpc.net/problem/13023
+
+    [백준 : 13023. ABCED 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/13023.ABCDE.cpp)
