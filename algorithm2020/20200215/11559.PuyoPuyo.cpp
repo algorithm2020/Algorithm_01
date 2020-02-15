@@ -74,15 +74,7 @@ vector<pair<int, int>> bfs(int i,int j) {
 		}
 	}
 
-	//같은 색이 4개이상이면 제거대상에 넣는다.
-	if (ret.size() >= 4) {
-		return ret;
-	}
-	//같은 색이 3개이하이면 제거대상이 아니다
-	else {
-		ret.clear();
-		return ret;
-	}
+	return ret;
 }
 
 int main() {
@@ -97,19 +89,17 @@ int main() {
 	do {
 		vector < vector<pair<int, int>>>candidate; //삭제후보 구슬 묶음
 		init();
-		//모든 점에 대해서 4개이상인것 찾기
+
 		int vec_cnt = 0;
 		FOR(i, n) {
 			FOR(j, m) {
 				if (visited[i][j] == 0 && v[i][j] != '.') {
-					vector<pair<int, int>>puyo = bfs(i, j); //구슬묶음
-					if(puyo.size() == 0) continue;
+					vector<pair<int, int>>puyo = bfs(i, j); //4개이상인 구슬묶음 찾기
+					if(puyo.size() < 4) continue;
 					candidate.push_back(puyo);
 					sort(candidate[vec_cnt].begin(), candidate[vec_cnt].end()); 
-					vec_cnt++;
-					
+					vec_cnt++;	
 				}
-				
 			}
 		}
 

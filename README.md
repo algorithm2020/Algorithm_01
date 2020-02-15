@@ -219,13 +219,13 @@ BFS
     [백준 : 11559. puyo puyo 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/11559.PuyoPuyo.cpp)
 * [백준 : 2589. 보물섬] https://www.acmicpc.net/problem/2589
 
-    [백준 : 2589. 보물섬 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/2589.\353\263\264\353\254\274\354\204\254.cpp)
+    [백준 : 2589. 보물섬 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/2589.%EB%B3%B4%EB%AC%BC%EC%84%AC.cpp)
     
 DFS
 
 * [백준 : 2573. 빙산] https://www.acmicpc.net/problem/2573
 
-    [백준 : 2573. 빙산 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/2573.\353\271\231\354\202\260.cpp)
+    [백준 : 2573. 빙산 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/2573.%EB%B9%99%EC%82%B0.cpp)
 * [백준 : 13023. ABCED] https://www.acmicpc.net/problem/13023
 
     [백준 : 13023. ABCED 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/13023.ABCDE.cpp)
