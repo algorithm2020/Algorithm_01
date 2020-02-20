@@ -229,3 +229,28 @@ DFS
 * [백준 : 13023. ABCED] https://www.acmicpc.net/problem/13023
 
     [백준 : 13023. ABCED 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/13023.ABCDE.cpp)
+* [백준 : 17070. 파이프 옮기기 1] https://www.acmicpc.net/problem/17070
+
+    [백준 : 17070. 파이프 옮기기 1 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/17070.cpp)
+
+
+2020.02.22
+---
+BFS / DFS
+
+* [백준 : 1389. 케빈베이컨의 6단계 법칙] https://www.acmicpc.net/problem/1389
+
+    [백준 : 1389. 케빈베이컨의 6단계 법칙 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200222/1389%EC%BC%80%EB%B9%88%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%986%EB%8B%A8%EA%B3%84%EB%B2%95%EC%B9%99.cpp)
+* [백준 : 1613. 역사] https://www.acmicpc.net/problem/1613
+
+    [백준 : 1613. 역사 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200222/1613%EC%97%AD%EC%82%AC.cpp)
+* [백준 : 2251. 물통] https://www.acmicpc.net/problem/2251
+
+    [백준 : 2251. 물통 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200222/2251%EB%AC%BC%ED%86%B5.cpp)
+* [백준 : 1697. 숨바꼭질] https://www.acmicpc.net/problem/1697
+
+    [백준 : 1697. 숨바꼭질 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200222/1697%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.cpp)
+
+* [백준 : 3055. 탈출] https://www.acmicpc.net/problem/3055
+
+    [백준 : 3055. 탈출 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200222/3055%ED%83%88%EC%B6%9C.cpp)
