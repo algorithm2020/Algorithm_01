@@ -2,8 +2,31 @@
 이재빈 코드 제출장소
 since (2020.01.13~)
 
-2020.01.18
+목차
 ---
+[2020.01.18](#2020-01-18)
+
+[2020.01.22](#2020-01-22)
+
+[2020.01.29](#2020-01-29)
+
+[2020.02.01](#2020-02-01)
+
+[2020.02.05](#2020-02-05)
+
+[2020.02.08](#2020-02-08)
+
+[2020.02.11](#2020-02-11)
+
+[2020.02.15](#2020-02-15)
+
+[2020.02.22](#2020-02-22)
+
+[2020.02.25](#2020-02-25)
+
+[2020.03.07](#2020-03-07)
+
+# 2020 01 18
 
 코드업
 * [세 수 정렬하기] (https://codeup.kr/problem.php?id=1172/)
@@ -27,8 +50,8 @@ since (2020.01.13~)
     
     [349. Intersection of Two Arrays 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200118/5.Intersection%20of%20Two%20Arrays.cpp)
     
-2020.01.22
----
+# 2020 01 22
+
 이진탐색(Binary Search)
 
 * [백준: 2805. 나무 자르기 ] https://www.acmicpc.net/problem/2805
@@ -70,8 +93,7 @@ since (2020.01.13~)
     [치킨배달 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200122/%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.cpp)
 
 
-2020.01.29
----
+# 2020 01 29
 이진 검색 트리(Binary Search Tree)
 
 * [백준: 1620. 나는 포켓몬 마스터 이다솜] https://www.acmicpc.net/problem/1620
@@ -95,8 +117,7 @@ since (2020.01.13~)
     [리트코드: Lowest Common Ancestor of a Binary Search Tree 풀이]()
 
 
-2020.02.01
----
+# 2020 02 01
 동적 계획법 (Dynamic Programming)
 
 * [백준: 11726. 2xN 타일링] https://www.acmicpc.net/problem/11726
@@ -119,8 +140,8 @@ since (2020.01.13~)
     <!--[프로그래머스: 카드 게임 풀이]()>-->
 
 
-2020.02.05
----
+# 2020 02 05
+
 그리디 알고리즘(Greedy)
 
 
@@ -159,8 +180,7 @@ since (2020.01.13~)
     <!--[리트코드: Assign Cookies 풀이]()-->
 
 
-2020.02.08
----
+# 2020 02 08
 
 스택
 
@@ -187,8 +207,8 @@ since (2020.01.13~)
     [리트코드: Two City Scheduling 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200208/Two%20City%20Scheduling.cpp)
 
 
-2020.02.11
----
+# 2020 02 11
+
 백트래킹
 
 * [백준 : 1758. 암호만들기] : https://www.acmicpc.net/problem/1759
@@ -210,8 +230,8 @@ since (2020.01.13~)
 
     <!--[스도쿠 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200211/%EC%8A%A4%EB%8F%84%EC%BF%A0.cpp)-->
 
-2020.02.15
----
+# 2020 02 15
+
 BFS
 
 * [백준 : 11559. puyo puyo] https://www.acmicpc.net/problem/11559
@@ -234,8 +254,8 @@ DFS
     [백준 : 17070. 파이프 옮기기 1 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200215/17070.cpp)
 
 
-2020.02.22
----
+# 2020 02 22
+
 BFS / DFS
 
 * [백준 : 1389. 케빈베이컨의 6단계 법칙] https://www.acmicpc.net/problem/1389
@@ -256,8 +276,8 @@ BFS / DFS
     [백준 : 3055. 탈출 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200222/3055%ED%83%88%EC%B6%9C.cpp)
 
 
-2020.02.25
----
+# 2020 02 25
+
 5종세트
 
 * [백준 : 9935. 문자열 폭발] https://www.acmicpc.net/problem/9935
@@ -277,8 +297,8 @@ BFS / DFS
     [백준 : 2217. 로프 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200225/%EB%A1%9C%ED%94%84.cpp)
 
 
-2020.02.29
----
+# 2020 02 29
+
 5종세트
 
 * [백준 : 2146. 다리 만들기] https://www.acmicpc.net/problem/2146
@@ -286,7 +306,7 @@ BFS / DFS
     [백준 : 2146. 다리 만들기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200229/2146.%20%EB%8B%A4%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 * [백준 : 15685. 드래곤 커브] https://www.acmicpc.net/problem/15685
     
-    <!--[백준 : 15685. 드래곤 커브 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200229/15685.%20%EB%93%9C%EB%9E%98%EA%B3%A4%20%EC%BB%A4%EB%B8%8C.cpp)-->
+    [백준 : 15685. 드래곤 커브 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200229/15685.%20%EB%93%9C%EB%9E%98%EA%B3%A4%20%EC%BB%A4%EB%B8%8C.cpp)
 * [백준 : 2240. 자두나무] https://www.acmicpc.net/problem/2240
 
     [백준 : 2240. 자두나무 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200229/2240.%20%EC%9E%90%EB%91%90%EB%82%98%EB%AC%B4.cpp)
@@ -297,8 +317,8 @@ BFS / DFS
 
     [백준 : 2206. 벽부수고 이동하기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200229/2206.%20%EB%B2%BD%EB%B6%80%EC%88%98%EA%B3%A0%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.cpp)
 
-2020.03.07
----
+# 2020 03 07
+
 * [백준 : 12100. 2048(Easy)]https://www.acmicpc.net/problem/12100
     
     [백준 : 12100. 2048(Easy) 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200307/12100.%202048(Easy).cpp)
@@ -319,8 +339,8 @@ BFS / DFS
 
     [백준 : 1937. 욕심쟁이 판다 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200307/1937.%20%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4%20%ED%8C%90%EB%8B%A4.cpp)
 
-2020.03.14
----
+# 2020 03 14
+
 * [백준 : 2011. 암호코드]https://www.acmicpc.net/problem/2011
 
     [백준 : 2011. 암호코드 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200314/2011.%20%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C.cpp)
