@@ -352,7 +352,7 @@ BFS / DFS
     <!--[프로그래머스 62048. 멀쩡한 사각형 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200314/62048.%20%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.cpp)-->
 * [백준 : 1062. 가르침]https://www.acmicpc.net/problem/1062
 
-    <!--[백준 : 1062. 가르침 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200314/1062.%20%EA%B0%80%EB%A5%B4%EC%B9%A8.cpp)-->
+    [백준 : 1062. 가르침 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200314/1062.%20%EA%B0%80%EB%A5%B4%EC%B9%A8.cpp)
 * [프로그래머스 : 42888. 오픈채팅방]https://programmers.co.kr/learn/courses/30/lessons/42888
 
     <!--[프로그래머스 : 42888. 오픈채팅방 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200314/42888%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.cpp)-->
