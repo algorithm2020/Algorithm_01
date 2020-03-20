@@ -16,6 +16,7 @@ since (2020.01.13~)
 * [2020.02.25](#2020-02-25)  
 * [2020.03.07](#2020-03-07)  
 * [2020.03.14](#2020-03-14)
+* [2020.03.21](#2020-03-21)
 
 # 2020 01 18
 
@@ -355,7 +356,7 @@ BFS / DFS
     [백준 : 1062. 가르침 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200314/1062.%20%EA%B0%80%EB%A5%B4%EC%B9%A8.cpp)
 * [프로그래머스 : 42888. 오픈채팅방]https://programmers.co.kr/learn/courses/30/lessons/42888
 
-    <!--[프로그래머스 : 42888. 오픈채팅방 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200314/42888%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.cpp)-->
+    [프로그래머스 : 42888. 오픈채팅방 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200314/42888%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.cpp)
 
 * [백준 : 2661. 좋은수열]https://www.acmicpc.net/problem/2661
 
@@ -363,3 +364,36 @@ BFS / DFS
 * [백준 : 4963. 섬의개수]https://www.acmicpc.net/problem/4963
 
     [백준 : 4963. 섬의개수 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200314/4963.%20%EC%84%AC%EC%9D%98%EA%B0%9C%EC%88%98.cpp)
+
+# 2020 03 21
+
+* [백준 : 1149. RGB거리] https://www.acmicpc.net/problem/1149
+
+    [백준 : 1149. RGB거리 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200321/1149.RGB%EA%B1%B0%EB%A6%AC.cpp)
+* [백준 : 1149. 두 배열의합] https://www.acmicpc.net/problem/2143
+
+    <!--[백준 : 1149. 두 배열의합 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200321/2143.%EB%91%90%EB%B0%B0%EC%97%B4%EC%9D%98%ED%95%A9.cpp)-->
+* [백준: 1966. 프린터큐] https://www.acmicpc.net/problem/1966
+
+    [백준 : 1966. 프린터큐 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200321/1966.%ED%94%84%EB%A6%B0%ED%84%B0%ED%81%90.cpp)
+* [백준 : 14501. 퇴사] https://www.acmicpc.net/problem/14501
+
+    [백준 : 14501. 퇴사 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200321/14501.%ED%87%B4%EC%82%AC.cpp)
+* [백준 : 14499. 주사위 굴리기] https://www.acmicpc.net/problem/14499
+
+    [백준 : 14499. 주사위 굴리기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200321/14499%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.cpp)
+* [프로그래머스 : 1829. 카카오 프렌즈 컬러링북] https://programmers.co.kr/learn/courses/30/lessons/1829
+
+    [프로그래머스 : 1829. 카카오 프렌즈 컬러링북 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200321/1829.%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%EC%BB%AC%EB%9F%AC%EB%A7%81%EB%B6%81.cpp) 
+* [백준 : 60058. 괄호변환] https://programmers.co.kr/learn/courses/30/lessons/60058
+
+    [백준 : 60058. 괄호변환 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200321/60058.%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98.cpp)
+* [백준 : 16234. 인구이동] https://www.acmicpc.net/problem/16234
+
+    [백준 : 16234. 인구이동 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200321/16234.%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.cpp)
+* [백준 : 1238. 파티]https://www.acmicpc.net/problem/1238
+
+    [백준 : 1238. 파티 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200321/1238.%ED%8C%8C%ED%8B%B0.cpp)
+* [백준 : 10026. 적록색약] https://www.acmicpc.net/problem/10026
+
+    [백준 : 10026. 적록색약 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200321/10026.%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.cpp)
