@@ -17,6 +17,7 @@ since (2020.01.13~)
 * [2020.03.07](#2020-03-07)  
 * [2020.03.14](#2020-03-14)
 * [2020.03.21](#2020-03-21)
+* [2020.03.29](#2020-03-29)
 
 # 2020 01 18
 
@@ -397,3 +398,25 @@ BFS / DFS
 * [백준 : 10026. 적록색약] https://www.acmicpc.net/problem/10026
 
     [백준 : 10026. 적록색약 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200321/10026.%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.cpp)
+
+
+# 2020 03 29
+
+* [백준 : 16836. 나3곱2] https://www.acmicpc.net/problem/16936
+
+    [백준 : 16836. 나3곱2 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200329/16836.%EB%82%983%EA%B3%B12.cpp)
+* [백준 : 14891. 톱니바퀴] https://www.acmicpc.net/problem/14891
+
+    [백준 : 14891. 톱니바퀴 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200329/14891.%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4.cpp)
+* [프로그래머스 : 62049. 종이접기] https://programmers.co.kr/learn/courses/30/lessons/62049
+
+    [프로그래머스 : 62049. 종이접기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200329/62049.%EC%A2%85%EC%9D%B4%EC%A0%91%EA%B8%B0.cpp)
+* [백준 : 1946. 신입사원] https://www.acmicpc.net/problem/1946
+
+    [백준 : 1946. 신입사원 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200329/1946.%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90.cpp)
+* [백준 : 14500. 테트로미노] https://www.acmicpc.net/problem/14500
+
+    [백준 : 14500. 테트로미노 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200329/14500.%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.cpp)
+* [백준 : 1261. 알고스팟] https://www.acmicpc.net/problem/1261
+
+    <!--[백준 : 1261. 알고스팟 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200329/1261.%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F.cpp)-->
