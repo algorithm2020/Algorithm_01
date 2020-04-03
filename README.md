@@ -18,6 +18,7 @@ since (2020.01.13~)
 * [2020.03.14](#2020-03-14)
 * [2020.03.21](#2020-03-21)
 * [2020.03.29](#2020-03-29)
+* [2020.04.04](#2020-04-04)
 
 # 2020 01 18
 
@@ -420,3 +421,23 @@ BFS / DFS
 * [백준 : 1261. 알고스팟] https://www.acmicpc.net/problem/1261
 
     <!--[백준 : 1261. 알고스팟 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200329/1261.%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F.cpp)-->
+
+# 2020 04 04
+* [백준 : 12886. 돌그룹] https://www.acmicpc.net/problem/12886
+
+    [백준 : 12886. 돌그룹 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200404/12886.%EB%8F%8C%EA%B7%B8%EB%A3%B9.cpp)
+* [백준 : 2504. 괄호의 값] https://www.acmicpc.net/problem/2504
+
+    [백준 : 2504. 괄호의 값 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200404/2504.%EA%B4%84%ED%98%B8%EC%9D%98%20%EA%B0%92.cpp)
+* [백준 : 9944. NxM 보드] https://www.acmicpc.net/problem/9944
+
+    <!--[백준 : 9944. NxM 보드 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200404/9944.NxM%20%EB%B3%B4%EB%93%9C.cpp)-->
+* [백준 : 15683. 감시] https://www.acmicpc.net/problem/15683
+
+    [백준 : 15683, 감시 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200404/15683.%EA%B0%90%EC%8B%9C.cpp)
+* [프로그래머스 : 43163. 단어변환] https://programmers.co.kr/learn/courses/30/lessons/43163
+
+    [프로그래머스 : 43163. 단어변환 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200404/43163.%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.cpp)
+* [백준 : 10159. 저울] https://www.acmicpc.net/problem/10159
+
+    [백준 : 10159. 저울 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200404/10159.%EC%A0%80%EC%9A%B8.cpp)
