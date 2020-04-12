@@ -441,3 +441,30 @@ BFS / DFS
 * [백준 : 10159. 저울] https://www.acmicpc.net/problem/10159
 
     [백준 : 10159. 저울 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200404/10159.%EC%A0%80%EC%9A%B8.cpp)
+
+# 2020 40 12
+* [프로그래머스 : 17676. 추석트래픽] https://programmers.co.kr/learn/courses/30/lessons/17676
+
+    [프로그래머스 : 17676. 추석트래픽 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200412/17676.%EC%B6%94%EC%84%9D%ED%8A%B8%EB%9E%98%ED%94%BD.cpp)
+* [프로그래머스 : 1830. 브라이언의 고민] https://programmers.co.kr/learn/courses/30/lessons/1830
+
+    [프로그래머스 : 1830. 브라이언의 고민 풀이]()
+* [백준 : 9251. LCS] https://www.acmicpc.net/problem/9251
+
+    [백준 : 9251. LCS 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200412/9251.LCS.cpp)
+* [프로그래머스 : 42579. 베스트앨범] https://programmers.co.kr/learn/courses/30/lessons/42579
+
+    [프로그래머스 : 42579. 베스트앨범 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200412/42579.%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.cpp)
+* [백준 : 1022. 소용돌이 예쁘게 출력하기] https://www.acmicpc.net/problem/1022
+
+    [백준 : 1022. 소용돌이 예쁘게 출력하기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200412/1022.%EC%86%8C%EC%9A%A9%EB%8F%8C%EC%9D%B4%20%EC%98%88%EC%81%98%EA%B2%8C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
+* [백준 : 1339. 단어수학] https://www.acmicpc.net/problem/1339
+
+    [백준 : 1339. 단어수학 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200412/1339.%EB%8B%A8%EC%96%B4%EC%88%98%ED%95%99.cpp)
+
+* [백준 : 2096. 내려가기] https://www.acmicpc.net/problem/2096
+
+    [백준 : 2096. 내려가기 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200412/2096.%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0.cpp)
+* [프로그래머스 : 43237. 예산] https://programmers.co.kr/learn/courses/30/lessons/43237
+
+    [프로그래머스 : 43237. 예산 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200412/43237.%EC%98%88%EC%82%B0.cpp)
