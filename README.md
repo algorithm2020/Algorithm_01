@@ -19,7 +19,7 @@ since (2020.01.13~)
 * [2020.03.21](#2020-03-21)
 * [2020.03.29](#2020-03-29)
 * [2020.04.04](#2020-04-04)
-
+* [2020.04.12](#2020-04-12)
 # 2020 01 18
 
 코드업
@@ -131,7 +131,7 @@ since (2020.01.13~)
     <!--[프로그래머스: N으로 표현 풀이]()-->
 * [프로그래머스: 카드 게임] https://programmers.co.kr/learn/courses/30/lessons/42896
 
-    <!--[프로그래머스: 카드 게임 풀이]()>-->
+    [프로그래머스: 카드 게임 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200201/%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.cpp)
 
 
 # 2020 02 05
@@ -318,7 +318,7 @@ BFS / DFS
     [백준 : 12100. 2048(Easy) 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200307/12100.%202048(Easy).cpp)
 * [프로그래머스 : 42884. 단속카메라] https://programmers.co.kr/learn/courses/30/lessons/42884
 
-    <!--[프로그래머스: 42884. 단속카메라 풀이]()-->
+    [프로그래머스: 42884. 단속카메라 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200307/42884.%20%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.cpp)
 * [백준 : 5567. 결혼식] https://www.acmicpc.net/problem/5567
 
     [백준 : 5567. 결혼식 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200307/5567.%20%EA%B2%B0%ED%98%BC%EC%8B%9D.cpp)
@@ -442,7 +442,7 @@ BFS / DFS
 
     [백준 : 10159. 저울 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200404/10159.%EC%A0%80%EC%9A%B8.cpp)
 
-# 2020 40 12
+# 2020 04 12
 * [프로그래머스 : 17676. 추석트래픽] https://programmers.co.kr/learn/courses/30/lessons/17676
 
     [프로그래머스 : 17676. 추석트래픽 풀이](https://github.com/algorithm2020/Algorithm_LJB/blob/master/algorithm2020/20200412/17676.%EC%B6%94%EC%84%9D%ED%8A%B8%EB%9E%98%ED%94%BD.cpp)
